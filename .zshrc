@@ -113,4 +113,5 @@ source $ZSH/oh-my-zsh.sh
 # Add Visual Studio Code (code)
 export PATH="$PATH:/Applications/Visual Studio Code.app/Contents/Resources/app/bin"
 
+# Alias to open WebStorm from terminal
 alias web='open -a "`ls -dt /Applications/WebStorm.app`"'
