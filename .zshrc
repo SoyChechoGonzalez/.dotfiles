@@ -115,3 +115,16 @@ export PATH="$PATH:/Applications/Visual Studio Code.app/Contents/Resources/app/b
 
 # Alias to open WebStorm from terminal
 alias web='open -a "`ls -dt /Applications/WebStorm.app`"'
+
+# source aliases
+ALIASFILE=~/.aliasrc
+source $ALIASFILE
+function add_alias() {
+    if [[ -z $1 || -z $2 || $# -gt 2 ]]; then
+        echo usage:
+        echo "\t\$$0 ll 'ls -l'"
+    else
+        echo "alias $1='$2'" >> $ALIASFILE
+        echo "alias ADDED to $ALIASFILE"
+    fi
+}
