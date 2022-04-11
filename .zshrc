@@ -128,3 +128,4 @@ function add_alias() {
         echo "alias ADDED to $ALIASFILE"
     fi
 }
+export PATH="/usr/local/mysql/bin:$PATH"
