@@ -1,0 +1,137 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="Midudev" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1" />
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="EditorConfig">
+      <summary usageCount="14" lastUsed="1649904908655" />
+    </fileType>
+    <fileType name="JSX Harmony">
+      <summary usageCount="11" lastUsed="1649906983405" />
+    </fileType>
+    <fileType name="JavaScript">
+      <summary usageCount="13" lastUsed="1649906983333" />
+    </fileType>
+  </component>
+  <component name="GitSEFilterConfiguration">{
+}</component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$USER_HOME$/.editorconfig" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Midudev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Midudev" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Midudev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Midudev" type="462c0819:PsiDirectoryNode" />
+              <item name="index.jsx" type="620a8d5e:NestingTreeNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="7003000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info id="Bookmarks" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.24340278" />
+      <window_info id="Learn" order="2" />
+      <window_info id="Structure" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.3297143" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Problems View" order="6" weight="0.3297143" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Services" order="8" show_stripe_button="false" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.25" />
+    </layout>
+    <recentWindows>
+      <value>Project</value>
+      <value>Problems View</value>
+      <value>Version Control</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="350" y="127" key="#Inspections" timestamp="1649906934400">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="350" y="127" key="#Inspections/0.25.1440.875@0.25.1440.875" timestamp="1649906934400" />
+    <state x="0" y="25" width="1440" height="875" key="#JavaScript" timestamp="1649906483605">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="0" y="25" width="1440" height="875" key="#JavaScript/0.25.1440.875@0.25.1440.875" timestamp="1649906483605" />
+    <state x="261" y="115" key="#Run/Debug_Configuration_Templates" timestamp="1649906492483">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="261" y="115" key="#Run/Debug_Configuration_Templates/0.25.1440.875@0.25.1440.875" timestamp="1649906492483" />
+    <state x="200" y="115" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1649906493667">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="200" y="115" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.875@0.25.1440.875" timestamp="1649906493667" />
+    <state x="407" y="264" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1649906511416">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="407" y="264" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.25.1440.875@0.25.1440.875" timestamp="1649906511416" />
+    <state x="420" y="160" key="FileChooserDialogImpl" timestamp="1649900362742">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="420" y="160" key="FileChooserDialogImpl/0.25.1440.875@0.25.1440.875" timestamp="1649900362742" />
+    <state x="205" y="141" key="IDE.errors.dialog" timestamp="1649901046848">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="205" y="141" key="IDE.errors.dialog/0.25.1440.875@0.25.1440.875" timestamp="1649901046848" />
+    <state x="97" y="25" key="SettingsEditor" timestamp="1649906876192">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="97" y="25" key="SettingsEditor/0.25.1440.875@0.25.1440.875" timestamp="1649906876192" />
+    <state x="455" y="223" key="save.file.as.template.dialog" timestamp="1649906408398">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="455" y="223" key="save.file.as.template.dialog/0.25.1440.875@0.25.1440.875" timestamp="1649906408398" />
+    <state x="301" y="25" width="838" height="1039" key="search.everywhere.popup" timestamp="1649901012615">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="301" y="25" width="838" height="1039" key="search.everywhere.popup/0.25.1440.875@0.25.1440.875" timestamp="1649901012615" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.editorconfig" />
+    <entry file="file://$USER_HOME$/.editorconfig" />
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.jsx">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>

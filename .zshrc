@@ -129,3 +129,4 @@ function add_alias() {
     fi
 }
 export PATH="/usr/local/mysql/bin:$PATH"
+source ~/powerlevel10k/powerlevel10k.zsh-theme

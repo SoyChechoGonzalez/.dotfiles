@@ -1,0 +1,83 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Angular</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="DynamicPluginEnabler">
+    <trackers>
+      <map>
+        <entry key="27le6CbNElXYxddeoHbGTDaLTgS">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="Default (Template) Project">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontScale" value="1.0" />
+    <option name="fontSize" value="16.0" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "CWM_LOGGING_VERSION": "1",
+    "ExpandBeforeRunStepsPanel": "true",
+    "FileTemplates.SelectedTemplate": "HTML File",
+    "GeneralSettings.initiallyConfigured": "true",
+    "InstalledPluginsSearchHistory": "jsx\neditorc\ncodely",
+    "MarketplacePluginsSearchHistory": "editorc\neditor\nicons\ni\nvim",
+    "NonModalCommitCustomization.IsApplied": "true",
+    "PluginConfigurable.selectionTab": "1",
+    "RunOnceActivity.se.text.search": "true",
+    "SettingsSearchHistory": "jsx\njavascript\neditorcon\neditorc",
+    "TextEditorWithPreviewLayout": "Editor only",
+    "appcds.runOnSecondStart": "WS-221.5080.193-4bac585823c3f59ed1142a8bed3b5d6977ef96ed5088e6f943d9f40bc180a19a",
+    "ask.about.ctrl.y.shortcut.v2": "true",
+    "bundled.plugins.list.saved.version": "WS-221.5080.193",
+    "file.gist.reindex.count": "13",
+    "fileTypeChangedCounter": "32",
+    "got.it.tooltip.cwm.invitation.notification": "1",
+    "got.it.tooltip.reader.mode.got.it": "1",
+    "gotit.previous.run": "WS-221.5080.193",
+    "ide.memory.adjusted": "true",
+    "ide.updates.whats.new.shown.for": "221",
+    "ideavim.statistics.timestamp": "1649898969224",
+    "registry.to.advanced.settings.migration.build": "WS-221.5080.193",
+    "settings.code.style.selected.tab.CSS": "Other",
+    "settings.code.style.selected.tab.EditorConfig": "Spaces",
+    "settings.code.style.selected.tab.HTML": "Code Generation",
+    "settings.code.style.selected.tab.JavaScript": "Tabs and Indents",
+    "settings.code.style.selected.tab.LESS": "Other",
+    "settings.code.style.selected.tab.SASS": "Tabs and Indents",
+    "settings.code.style.selected.tab.Stylus": "Tabs and Indents",
+    "settings.code.style.selected.tab.yaml": "Tabs and Indents",
+    "tasks.pass.word.conversion.enforced": "true",
+    "ts.lib.d.ts.version": "4.5.4"
+  },
+  "keyToStringList": {
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector",
+      "com.intellij.docker.dockerFile.DockerFileTypeDetector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+</application>

@@ -1,0 +1,72 @@
+<application>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry encoding="base64">anN4</entry>
+        <entry encoding="base64">anM=</entry>
+        <entry encoding="base64">NA==</entry>
+        <entry encoding="base64">VGFi</entry>
+        <entry encoding="base64">dGFi</entry>
+      </history-search>
+      <history-cmd>
+        <entry encoding="base64">cQ==</entry>
+        <entry encoding="base64">dw==</entry>
+      </history-cmd>
+    </history>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/.editorconfig" timestamp="1649905318752">
+        <mark key="'" line="4" column="17" />
+      </file>
+      <file name="/" timestamp="1649900727683">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="22" column="38" filename="$USER_HOME$/.editorconfig" />
+      <jump line="522" column="5" filename="$USER_HOME$/.editorconfig" />
+      <jump line="558" column="16" filename="$USER_HOME$/.editorconfig" />
+      <jump line="416" column="14" filename="$USER_HOME$/.editorconfig" />
+      <jump line="684" column="5" filename="$USER_HOME$/.editorconfig" />
+      <jump line="0" column="0" filename="$USER_HOME$/.editorconfig" />
+      <jump line="190" column="36" filename="$USER_HOME$/.editorconfig" />
+      <jump line="234" column="14" filename="$USER_HOME$/.editorconfig" />
+      <jump line="235" column="14" filename="$USER_HOME$/.editorconfig" />
+      <jump line="332" column="27" filename="$USER_HOME$/.editorconfig" />
+      <jump line="536" column="5" filename="$USER_HOME$/.editorconfig" />
+      <jump line="3" column="14" filename="$USER_HOME$/.editorconfig" />
+      <jump line="7" column="12" filename="$USER_HOME$/.editorconfig" />
+      <jump line="135" column="30" filename="$USER_HOME$/.editorconfig" />
+      <jump line="640" column="54" filename="$USER_HOME$/.editorconfig" />
+      <jump line="616" column="52" filename="$USER_HOME$/.editorconfig" />
+      <jump line="171" column="30" filename="$USER_HOME$/.editorconfig" />
+      <jump line="252" column="30" filename="$USER_HOME$/.editorconfig" />
+      <jump line="343" column="0" filename="$USER_HOME$/.editorconfig" />
+      <jump line="353" column="17" filename="$USER_HOME$/.editorconfig" />
+      <jump line="4" column="17" filename="$USER_HOME$/.editorconfig" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name=":" type="4">
+        <text encoding="base64">dw==</text>
+      </register>
+      <register name="." type="4">
+        <text encoding="base64" />
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">dGFi</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search encoding="base64">dGFi</last-search>
+      <last-pattern encoding="base64">dGFi</last-pattern>
+      <last-dir encoding="base64">MQ==</last-dir>
+      <show-last encoding="base64">ZmFsc2U=</show-last>
+    </search>
+  </component>
+</application>

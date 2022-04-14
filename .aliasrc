@@ -1,5 +1,8 @@
-# " Estudio
+# Estudio
+alias workspace="cd ~/workspace/"
 alias estudio="cd ~/workspace/Estudio"
+alias fullstack="cd ~/workspace/Estudio/FullStack"
 alias digital="cd ~/workspace/Estudio/DigitalHouse"
-alias spotifu="cd ~/workspace/Estudio/LeonidasEsteban.com"
+alias spotifu="cd ~/workspace/Estudio/LeonidasEsteban.com/Spotifu"
+alias fullstack="cd ~/workspace/Estudio/DigitalHouse/FullStack/"
 

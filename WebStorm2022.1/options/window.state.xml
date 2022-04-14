@@ -1,0 +1,15 @@
+<application>
+  <component name="WindowManager">
+    <frame x="0" y="25" width="1440" height="875" extendedState="6" />
+  </component>
+  <component name="WindowStateApplicationService">
+    <state x="229" y="69" key="SettingsEditor" timestamp="1649893367239">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="229" y="69" key="SettingsEditor/0.25.1440.875" timestamp="1649893367239" />
+    <state x="720" y="451" width="1000" height="813" key="WELCOME_SCREEN" timestamp="1649907000035">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="720" y="451" width="1000" height="813" key="WELCOME_SCREEN/0.25.1440.875" timestamp="1649907000035" />
+  </component>
+</application>
